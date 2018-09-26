@@ -1,2 +1,2 @@
 # Numerical-methods
-Solutions of numerical methods problems in different programming languages
+Analysis of numerical methods using different programming languages
